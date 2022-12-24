@@ -4,8 +4,8 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-[See it in action](https://sadanandpai.github.io/sorting-visualizer/dist/)
+<a><img src="cover.png" alt="cover" /></a>
+
 
 ---
 
@@ -26,12 +26,6 @@ Features
 - Start, pause and reset the execution
 - Generate random array of numbers of sorting
 
-### Technologies
-
-- React with hooks
-- [Styled components](https://styled-components.com/) + [React material](https://material-ui.com/) (css and component libraries)
-- [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
-- [Vite](https://vitejs.dev/) (Bundler)
 
 ### Features built using
 
@@ -45,9 +39,3 @@ Features
 - ```npm install``` (after navigating inside the directory)
 - ```npm run dev```
 
----
-
-### Contributing Guide
-
-If you want to contribute, improve or fix bugs in this repo, then check out the [Contributing Guide](./CONTRIBUTING.md)
-<br/>
